@@ -1,4 +1,5 @@
 ### I copy pasted below from Dillinger website for practicing Markdown language purpose.
+### This repository is created for exercising Git commands. It really contains random things making no sense. 
 
 # Dillinger
 
